@@ -4,7 +4,7 @@ $(document).ready(function(){
 
 		$.ajax({
 			type: 'POST',
-			url: 'send.php',
+			url: '', //controller call
 			data: $(this).serialize(),
 			success: function(data){
 				$("#respuesta").slideDown();
