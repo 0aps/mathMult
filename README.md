@@ -1,3 +1,3 @@
 # beta
 
-Math Multipliers request site for volunteers.
+Math Multipliers request site for volunteers
