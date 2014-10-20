@@ -1,3 +1,3 @@
 # beta
 
-a [Sails](http://sailsjs.org) application
+Math Multipliers request site for volunteers.
